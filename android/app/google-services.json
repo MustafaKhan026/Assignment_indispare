@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "150053174748",
+    "project_id": "tasks-22016",
+    "storage_bucket": "tasks-22016.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150053174748:android:b86dea3e6f7ed92e70e319",
+        "android_client_info": {
+          "package_name": "com.indispare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150053174748-o94j58mk769leipkho6dfdp0tcvrhl31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX_2BkpXuhWxjy2An1ApKzLBgbeKDWq6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150053174748-o94j58mk769leipkho6dfdp0tcvrhl31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150053174748:android:0ec27dc85f74e6b270e319",
+        "android_client_info": {
+          "package_name": "com.indispare_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150053174748-o94j58mk769leipkho6dfdp0tcvrhl31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX_2BkpXuhWxjy2An1ApKzLBgbeKDWq6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150053174748-o94j58mk769leipkho6dfdp0tcvrhl31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150053174748:android:80b6c452833bf94e70e319",
+        "android_client_info": {
+          "package_name": "com.infastatask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150053174748-rn0dtlivcqr41v2lf606caoleje35i11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infastatask",
+            "certificate_hash": "f1c8d1b8768febd1548e5144d10d842811f01886"
+          }
+        },
+        {
+          "client_id": "150053174748-o94j58mk769leipkho6dfdp0tcvrhl31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX_2BkpXuhWxjy2An1ApKzLBgbeKDWq6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150053174748-o94j58mk769leipkho6dfdp0tcvrhl31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
